@@ -1,0 +1,12 @@
+
+.button {
+    padding: 5px 20px;
+    margin-right: 15px;
+    border-radius: 5px;
+    border: 1px solid #bebebe;
+    background-color: azure;
+}
+.button:active {
+    color: wheat;
+    background-color: blue;
+}
